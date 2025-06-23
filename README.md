@@ -5,7 +5,7 @@ Sexto semestre Ingeniería en Sistemas y Telecomunicaciones de la [Universidad C
 
 Hago parte del Semillero de Programación Competitiva de mi universidad, 1 vez en ICPC Colombia National Programming Contest 2024, 5 lugar UTP Open 2025.
 
-## Conocimientos
+## 🧠 Conocimientos
 
 ![C/C++](https://img.shields.io/badge/-c++-0020DB?logo=cplusplus&logoColor=black&style=for-the-badge)
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
