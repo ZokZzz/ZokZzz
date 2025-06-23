@@ -9,6 +9,7 @@ Hago parte del Semillero de Programación Competitiva de mi universidad, 1 vez e
 
 ![C/C++](https://img.shields.io/badge/-c++-0020DB?logo=cplusplus&logoColor=black&style=for-the-badge)
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
+![Python]([https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
 ![Javascript](https://shields.io/badge/JavaScript-F7DF1E?logo=JavaScript&logoColor=000&style=flat-square)
 
 
