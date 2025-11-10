@@ -1,9 +1,9 @@
 
 # David Salazar (ZokZzz)
 
-Sexto semestre Ingeniería en Sistemas y Telecomunicaciones de la [Universidad Católica De Pereira](https://www.ucp.edu.co/).
+Septimo semestre Ingeniería en Sistemas y Telecomunicaciones de la [Universidad Católica De Pereira](https://www.ucp.edu.co/).
 
-Hago parte del Semillero de Programación Competitiva de mi universidad, ICPC Colombia National Programming Contest 2024 / 2025, [5 lugar UTP Open 2025](https://www.ucp.edu.co/semillero-coders-obtiene-quinto-puesto-en-utp-open-2025/).
+Programador competitivo : ICPC Colombia National Programming Contest 2024 / 2025, [5 lugar UTP Open 2025](https://www.ucp.edu.co/semillero-coders-obtiene-quinto-puesto-en-utp-open-2025/).
 
 ## 🧠 Conocimientos
 
