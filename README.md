@@ -20,5 +20,5 @@ Programador competitivo : ICPC Colombia National Programming Contest 2024 / 2025
 [![Badge](https://cp-logo.vercel.app/codeforces/Zokzz)](https://codeforces.com/profile/Zokzz)
 
 
-![La fortuna nos sonrie]((https://media.tenor.com/wv75yEIqgS8AAAAi/hackermans.gif))
+![]((https://media.tenor.com/wv75yEIqgS8AAAAi/hackermans.gif))
 
