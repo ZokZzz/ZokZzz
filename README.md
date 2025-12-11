@@ -5,6 +5,10 @@ Software & Telecommunications Engineer from [Universidad Católica De Pereira](h
 
 Competitive Programmer : ICPC Colombia National Programming Contest 2024 / 2025, [5th UTP Open 2025](https://www.ucp.edu.co/semillero-coders-obtiene-quinto-puesto-en-utp-open-2025/).
 
+
+![La fortuna nos sonrie](https://github.com/user-attachments/assets/4906ae4d-52f6-4b2f-90a2-63aba10aee4a)
+
+
 ## 🖥️ Socials
 
 [![linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/david-salazar-salazar-1012b7355/)
@@ -15,6 +19,5 @@ Competitive Programmer : ICPC Colombia National Programming Contest 2024 / 2025,
 
 
 
-![La fortuna nos sonrie](https://github.com/user-attachments/assets/4906ae4d-52f6-4b2f-90a2-63aba10aee4a)
 
 
