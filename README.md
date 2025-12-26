@@ -7,6 +7,10 @@ Competitive Programmer : ICPC Colombia National Programming Contest 2024 / 2025,
 
 
 
+![La fortuna nos sonrie](https://github.com/user-attachments/assets/65b0a3de-c2e2-4da0-900f-b6b81d4b48d9)
+
+
+
 
 ## 🖥️ Socials
 
