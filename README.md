@@ -5,7 +5,7 @@ Software & Telecommunications Engineer from [Universidad Católica De Pereira](h
 
 Competitive Programmer : ICPC Colombia National Programming Contest 2024 / 2025, [5th UTP Open 2025](https://www.ucp.edu.co/semillero-coders-obtiene-quinto-puesto-en-utp-open-2025/).
 
-Blog : [Blog](https://zokzzz.github.io/).
+Personal Blog : [Blog](https://zokzzz.github.io/).
 
 ![La fortuna nos sonrie.](https://github.com/user-attachments/assets/65b0a3de-c2e2-4da0-900f-b6b81d4b48d9)
 
