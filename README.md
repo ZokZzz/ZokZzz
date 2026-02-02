@@ -18,7 +18,6 @@ Personal Blog : [Blog](https://zokzzz.github.io/).
 [![twitter](https://img.shields.io/badge/twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://x.com/zokZzz)
 [![Badge](https://cp-logo.vercel.app/codeforces/Zokzz)](https://codeforces.com/profile/Zokzz)
 
-![My GitHub Space Shooter](zokZzz-space-shooter.gif)
 
 
 
