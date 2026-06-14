@@ -1,7 +1,7 @@
 
 # David Salazar (ZokZzz)
 
-Software & Telecommunications Engineer from [Universidad Católica De Pereira](https://www.ucp.edu.co/).
+Systemingenieur und Telekommunikationsingenieur aus [Universidad Católica De Pereira](https://www.ucp.edu.co/).
 
 Competitive Programmer : ICPC Colombia National Programming Contest 2024 / 2025, [5th UTP Open 2025](https://www.ucp.edu.co/semillero-coders-obtiene-quinto-puesto-en-utp-open-2025/).
 
