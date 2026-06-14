@@ -17,6 +17,9 @@ Personal Blog : [Blog](https://zokzzz.github.io/).
 
 
 <img width="200" height="200" alt="descarga" src="https://github.com/user-attachments/assets/ae8344c3-881c-4513-9633-dc7a0bf6d8d6" />
+<img width="480" height="480" alt="halloween (1)" src="https://github.com/user-attachments/assets/f383a59c-e14c-4c12-ba66-896971205ca9" />
+<img width="200" height="200" alt="halloween" src="https://github.com/user-attachments/assets/94044d77-946a-4ab3-80d5-a77ace076e72" />
+
 
 
 
