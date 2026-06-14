@@ -16,6 +16,7 @@ Personal Blog : [Blog](https://zokzzz.github.io/).
 
 
 
+<img width="200" height="200" alt="descarga" src="https://github.com/user-attachments/assets/ae8344c3-881c-4513-9633-dc7a0bf6d8d6" />
 
 
 
