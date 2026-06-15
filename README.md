@@ -16,7 +16,8 @@ Blog : [Blog](https://zokzzz.github.io/).
 
 
 
-<img width="487" height="498" alt="Marlboro Sticker - Marlboro - Descobrir e Compartilhar GIFs" src="https://github.com/user-attachments/assets/b9781c03-0f25-4c9f-9a02-59f60effb4b1" />
+<img width="500" height="350" alt="- Find   Share on GIPHY" src="https://github.com/user-attachments/assets/625c6c3a-f8c6-431e-801e-635497dbc513" />
+
 
 
 
