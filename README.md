@@ -16,9 +16,7 @@ Blog : [Blog](https://zokzzz.github.io/).
 
 
 
-<img width="640" height="480" alt="蜘蛛王！！" src="https://github.com/user-attachments/assets/a24ac1dc-5de3-485b-ad26-5b2a1f49fd8a" />
-
-
+<img width="487" height="498" alt="Marlboro Sticker - Marlboro - Descobrir e Compartilhar GIFs" src="https://github.com/user-attachments/assets/b9781c03-0f25-4c9f-9a02-59f60effb4b1" />
 
 
 
