@@ -1,5 +1,5 @@
 
-# David Salazar (ZokZzz)
+# David Salazar 
 
 Systemingenieur und Telekommunikationsingenieur aus [Universidad Católica De Pereira](https://www.ucp.edu.co/).
 
